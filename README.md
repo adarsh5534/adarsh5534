@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarsh5534
 - 👀 I’m interested in ...full stack development
-- 🌱 I’m currently learning ...python3
+- 🌱 I’m currently learning ...MEARN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
